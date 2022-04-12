@@ -1,4 +1,4 @@
-# Media 123
+# Media
 
 ### Everscale social media resources:
 
