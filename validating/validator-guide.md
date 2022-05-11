@@ -7,11 +7,11 @@ coverY: 0
 
 ### Let's start!&#x20;
 
-To raise a validator node in the Everscale network, you will need to purchase a TON Crystal to provide a stake, as well as acquire a server that will withstand the projected loads due to block validation.
+To raise a validator node in the Everscale network, you will need to purchase a EVER to provide a stake, as well as acquire a server that will withstand the projected loads due to block validation.
 
 ### Administrative part of validating
 
-As stated above, in order to become a validator, you need to have TON Crystals to provide a steak. There are several ways to buy TON Crystals, you can familiarize yourself with all of them in the “Buy / Sell” section of the documentation.
+As stated above, in order to become a validator, you need to have EVER to provide a steak. There are several ways to buy EVER, you can familiarize yourself with all of them in the “Buy / Sell” section of the documentation.
 
 {% content-ref url="../individuals-and-institutionals/buy-sell-trade.md" %}
 [buy-sell-trade.md](../individuals-and-institutionals/buy-sell-trade.md)
@@ -39,6 +39,6 @@ You can find detailed requirements in the instructions provided by [TON Lab](htt
 
 ### Set up the Node and start to validate&#x20;
 
-An article with step-by-step information and code examples on how to start your own node is in the documentation of one of the key community members, TON Labs, who are involved in both validation and network development:&#x20;
+An article with step-by-step information and code examples on how to start your own node is in the documentation of one of the key community members, EverX, who are involved in both validation and network development:&#x20;
 
 {% embed url="https://docs.ton.dev/86757ecb2/p/708260-run-validator" %}

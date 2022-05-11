@@ -2,9 +2,9 @@
 
 In order to conveniently test your smart contracts in the Everscale blockchain, you will need the Evernode tool.
 
-### What is Evernode?&#x20;
+### What is Evernode DS?
 
-Evernode is a suite of software developed by a member company of the community network, TON Labs, that provides interoperability with the Everscale blockchain.
+Evernode is a suite of software developed by a member company of the community network, EverX, that provides interoperability with the Everscale blockchain.
 
 Everscale provides itself with the blockchain as a special distributed computer that receives, provides and stores information, a set of programs that manage computer resources and provide a user and program interface can be called an operating system.
 
@@ -12,11 +12,11 @@ It should be noted that Evernode is not an operating system in the classical sen
 
 ### What is Evernode SE?
 
-Evernode Startup Edition is a preconfigured Docker image with a simplified standalone node server instance designed only for debugging and testing.&#x20;
+Evernode Startup Edition is a preconfigured Docker image with a simplified standalone node server instance designed only for debugging and testing.
 
-Evernode SEconsists of:
+Evernode SE consists of:
 
-* TON Labs implementation of TON VM written in Rust
+* EverX implementation of TON VM written in Rust
 * ArangoDB database
 * GraphQL endpoint with web playground
 * Pre-deployed Giver (smart contract responsible for the distribution of tokens)
@@ -59,7 +59,7 @@ If you are using Evernode SE for your projects, use its pre-deployed Giver to sp
 
 You can find more detailed information about this stage on the [corresponding page on the official TONDEV website.](https://docs.ton.dev/86757ecb2/p/00f9a3-ton-os-se-giver)
 
-## Sources&#x20;
+## Sources
 
 You can find all the necessary sources of the installation files here:
 

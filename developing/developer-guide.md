@@ -12,11 +12,11 @@ coverY: 0
 
 Before reading the material below, it is advisable to be familiar with the basic description of the network, which can be read [**here**.](../about/introduction.md)
 
-### Foreword&#x20;
+### Foreword
 
 Everscale has an incredibly wide range of potential opportunities, taking into account all the known bottlenecks of popular blockchains, and that is why Everscale is significantly different from other networks, but in essence it is extremely logical in architecture.
 
-### Let's start!&#x20;
+### Let's start!
 
 We believe you have already read the Everscale Overview section and have a basic understanding of the principles of the network and its ideology. Below we will take a closer look at the constituent elements of the network.
 
@@ -28,9 +28,9 @@ Before you start interacting with the network, you need to study each of its sev
 
 The fundamental basis for understanding how the network works is the understanding of the fact that TVM (Ton Virtual Machine, about it a little later) represents all data in the form of a set or package of so-called cells. In turn, each cell can contain up to 1023 bits of data, as well as up to four link references to other cells. The cells are organized among themselves in the form of a tree, or rather a directed acyclic graph (GAQ).
 
-We recommend that you read more about the cells in the section \[1.1, 4, 3.1] of [**TON White paper**](https://ton.org/tblkch.pdf)
+We recommend that you read more about the cells in the section \[1.1, 4, 3.1] of [**Everscale White Paper**](https://everscale.network/docs/everscale-whitepaper.pdf)****
 
-### Blockchain structure. Dynamic sharding.&#x20;
+### Blockchain structure. Dynamic sharding.
 
 The Everscale blockchain is a collection of blockchains (even a collection of blockchains of blockchains) as a single blockchain is not capable of reaching the processing speed of millions of transactions per second. Detailed structure of the blockchain architecture: A unique masterchain containing general information about the protocol and the current values ​​of parameters: a set of validators and their stakes, many currently active workchains and their "shards", and most importantly, a set of hashes of the latest blocks of all workchains and shardchains.
 
@@ -38,7 +38,7 @@ Several working blockchains - workchains, which are "workhorses" and contain tra
 
 Each workchain, in turn, divides up to 2 ^ 60 shardchains, which have the same rules and block format as the workchain itself, but are responsible only for a dynamically determined subset of accounts, depending on the first few (most significant) bits of the account address. This is how a truly working dynamic sharding is implemented.
 
-We recommend that you familiarize yourself with the network architecture in more detail in the corresponding section \[5] of the [WhitePaper](https://ton.org/tblkch.pdf).
+We recommend that you familiarize yourself with the network architecture in more detail in the corresponding section \[5] of the [White Paper](https://everscale.network/docs/everscale-whitepaper.pdf).
 
 ### Account
 
@@ -79,7 +79,7 @@ The most common type of transaction is Ordinary transactions, which are the deli
 Besides them, there are several types of exotic transactions. There are 6 of them in total.
 
 1. **Ordinary** transactions are account-specific, they process exactly one incoming message, calculate the new account state, and generate multiple outgoing messages.
-2. &#x20;**Storage** transactions can be used by validators at their discretion. They do not process incoming messages and do not call any code. Their only task is to collect payments for keeping the account. This type of transaction is supported, but almost never used.
+2. **Storage** transactions can be used by validators at their discretion. They do not process incoming messages and do not call any code. Their only task is to collect payments for keeping the account. This type of transaction is supported, but almost never used.
 3. **Tick** ​​transactions do not have an incoming message, but can generate outgoing messages and change account states. For example, the choice of a validator is carried out through a tick transaction of special smart contracts in the master chain.
 4.  **Tock** transactions are automatically called as the most recent transaction in each block of the master chain for certain special accounts.
 
@@ -99,11 +99,10 @@ An Ordinary transaction is executed in several phases, which can be thought of a
 
 In more detail, we recommend that you familiarize yourself with this material in the [Whitepaper ](https://ton.org/tblkch.pdf)in sections (4.2.5, 4.2.4)
 
-### Writing smart contracts&#x20;
+### Writing smart contracts
 
 Smart contracts on the Everscale network are written primarily in Solidity and C ++. We will not dwell on this aspect in detail. Instead, we suggest that you go to the appropriate section of the documentation to familiarize yourself in detail with all the nuances of developing smart contracts for the Everscale blockchain.
 
 {% content-ref url="smart-contracts-1/" %}
 [smart-contracts-1](smart-contracts-1/)
 {% endcontent-ref %}
-

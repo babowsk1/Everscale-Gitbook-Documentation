@@ -1,16 +1,16 @@
 # Community
 
-An important advantage and reason for pride of Everscale is its community, which not only indirectly influences the development of TON, but is its main driving force. The community participates in the creation of proposals for improving various directions of the network (Sub Governance), maintains the security and stability of the network by participating in the validation process (Staking), and constantly proposes new initiatives for the development of the network on the forum (make a link).
+An important advantage and reason for pride of Everscale is its community, which not only indirectly influences the development of Everscale, but is its main driving force.&#x20;
+
+The community participates in the creation of proposals for improving various directions of the network (Sub Governance), maintains the security and stability of the network by participating in the validation process (Staking), and constantly proposes new initiatives for the development of the network on the forum (make a link).
 
 Below are all links to chats and other community resources in Everscale, to which you can freely join.
 
 **Developers:**&#x20;
 
-[Developer chat](https://t.me/tondev\_en)
+[Developer chat](https://t.me/everdev)
 
 [Developers channel](https://t.me/TON\_DEV)
-
-[C++ Development](https://t.me/FreeTON\_cpp)
 
 **Validators:**
 
@@ -20,11 +20,9 @@ Below are all links to chats and other community resources in Everscale, to whic
 
 **Community:**
 
-[Community chat](https://t.me/TONCRYSTAL)
+[Community chat](https://t.me/everscale)
 
-[Community flud chat](https://t.me/freeTON\_flud)
-
-[Wiki chat](https://t.me/freeton\_wiki)
+[Community channel](https://t.me/everscale\_news)
 
 **By countries:**
 

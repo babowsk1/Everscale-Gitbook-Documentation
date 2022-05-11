@@ -31,8 +31,8 @@ We believe that the most popular roles of Everscale blockchain participants are:
 [institutionals-guide.md](individuals-and-institutionals/institutionals-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="developing/developer-guide.md" %}
-[developer-guide.md](developing/developer-guide.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="validating/validator-guide.md" %}

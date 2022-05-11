@@ -18,7 +18,7 @@ Regarding the first point in the article below, you will find all the necessary 
 
 If you want to become an official partner of the network and start working together on mutually beneficial terms, you can use one of the following integration opportunities:
 
-1. Submit your application to the [Free TON DeFi Alliance](https://tonaliance.org) if your offer is related to the listing or the DeFi industry.
+1. Submit your application to the [Everscale DeFi Alliance](https://everalliance.org/en) if your offer is related to the listing or the DeFi industry.
 2. Prepare and publish a partnership proposal on the forum for its further evaluation and adoption.
 
 {% content-ref url="../dao-management/partners-application.md" %}

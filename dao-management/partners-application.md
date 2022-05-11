@@ -1,6 +1,6 @@
 # Partner's Application
 
-This method should be used if your partnership offer is not related to DeFi and the option of [interacting with the Free TON Alliance](partners-application.md) does not suit you.
+This method should be used if your partnership offer is not related to [Grants Program](https://everscale.network/developers/grants) and the option of [interacting with the Everscale DeFi Alliance](https://everalliance.org/en/) does not suit you.
 
 The following recommendations are based on the experience of previous and current collaboration with projects. They are updated frequently, so please check back from time to time as the community develops.
 
@@ -47,7 +47,7 @@ Offers that include any upfront tokens in exchange for something like integratio
 
 1. The number of tokens spent
 2. What they were spent on
-3. How many users were recruited to install the wallets, or TON purchases, etc., and how much TON has been distributed to users.
+3. How many users were recruited to install the wallets, or EVERs purchases, etc., and how much EVER has been distributed to users.
 
 Whenever forum discussion is insufficient to resolve conflicts between parties with different views or to answer multiple questions, the proposer should be prepared to participate in an AMA (Ask Me Anything) video session with members of the Everscale community. In most cases, it is a great tool for dealing with uncertainty.
 

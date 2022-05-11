@@ -14,7 +14,7 @@ Yes, a customer needs to go through KYC one time to make transactions using Inda
 
 The fee is varies from purchase to purchase as it is based on numerous factors, that's why Indacoin have created a calculator that will tell you the approximate amount of cryptocurrency you will receive, all fees included.
 
-When you use partnername _**Broxus**_, the commission for buying TON will be about 5%
+When you use partnername _**Broxus**_, the commission for buying EVER will be about 5%
 
 ## Broxus API
 

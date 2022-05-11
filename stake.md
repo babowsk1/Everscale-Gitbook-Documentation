@@ -6,7 +6,7 @@ To achieve high network performance, you need reliable servers with fast connect
 
 Enabling small token holders to participate in the governance of the network is a very important property of decentralization.
 
-For correct operation, the TON blockchain checks all created blocks. To do this, he uses special nodes called "validators" and offers substantial rewards for their work.
+For correct operation, the Everscale blockchain checks all created blocks. To do this, he uses special nodes called "validators" and offers substantial rewards for their work.
 
 However, in order to become a validator, a significant cryptocurrency deposit is required. The amount required may well exceed the budget of an individual validator. On the other hand, blockchain users who do not have a verification system are interested in its implementation.
 
@@ -48,7 +48,7 @@ Along with the basic regular stake, which functions according to the rules descr
 
 The stake is cut into pieces. Each subsequent part of the stake becomes available to the validator only at the end of the next transition period. At the end of each round, DePool decides how many pieces of the stake should be unlocked and subtracted from the stake and made available to the validator.
 
-Example: address A makes a 120 TON stake for 1 year with a period of 1 month and designates address B as the recipient of the stake. This means that after 1 month, 10 TONs become available for address B, and 110 TONs are still blocked in the round. After 1 year, the vesting stake will be 0, and the last 10 TONs will become available to the validator.
+Example: address A makes a 120 EVER stake for 1 year with a period of 1 month and designates address B as the recipient of the stake. This means that after 1 month, 10 EVERs become available for address B, and 110 EVERs are still blocked in the round. After 1 year, the vesting stake will be 0, and the last 10 EVERs will become available to the validator.
 
 #### Lock stake
 
@@ -58,7 +58,7 @@ One participant can only own one Vesting stake and one Lock stake. When a stake 
 
 ## How to become a stakeholder?
 
-In order to become a stakeholder and invest your TON Crystals in Depool, you can follow the instructions on the TONDEV website in the corresponding section.
+In order to become a stakeholder and invest your EVERs in Depool, you can follow the instructions on the TON DEV website in the corresponding section.
 
 {% embed url="https://docs.ton.dev/86757ecb2/p/45fa44-depool-faq" %}
 

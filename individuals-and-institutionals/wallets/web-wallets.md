@@ -10,14 +10,6 @@ Also, when creating a wallet, you can choose one of the popular contracts to use
 
 {% embed url="https://l1.broxus.com/freeton/wallet" %}
 
-### TONWallet
-
-This is a browser wallet developed by the Svoi.dev team**.**
-
-This wallet boasts the ability to select one of several color themes by the user, create TIP-3 tokens, multilingualism, as well as work with the main and test Everscale networks.
-
-{% embed url="https://tonwallet.io" %}
-
 ### Ever Surf
 
 Ever Surf is a free, private and simple blockchain interface that is a wallet for storing funds, as well as a built-in functional chat.

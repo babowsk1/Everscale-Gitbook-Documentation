@@ -2,14 +2,10 @@
 
 ### Everscale social media resources:
 
-Twitter: [https://twitter.com/CommunityTon](https://twitter.com/CommunityTon)
+[Twitter](https://twitter.com/Everscale\_net)
 
-Reddit: [https://www.reddit.com/r/TONCRYSTAL/](https://www.reddit.com/r/TONCRYSTAL/)
+[Youtube](https://www.youtube.com/channel/UCPVBkzUuMD5TlQDGUqyWzzg)
 
-Facebook: [https://www.facebook.com/CommunityTon](https://www.facebook.com/CommunityTon)
+[Medium](https://blog.everscale.network)
 
-Youtube: [https://www.youtube.com/channel/UCPVBkzUuMD5TlQDGUqyWzzg](https://www.youtube.com/channel/UCPVBkzUuMD5TlQDGUqyWzzg)
-
-Medium: [https://medium.com/freeton](https://medium.com/freeton)
-
-Official Everscale news Telegram channel: [https://t.me/ton\_crystal\_news](https://t.me/ton\_crystal\_news)
+[Official Everscale news Telegram channel](https://t.me/everscale\_news)

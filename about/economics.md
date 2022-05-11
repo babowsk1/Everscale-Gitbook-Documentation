@@ -2,7 +2,7 @@
 
 ## Issue of tokens
 
-The native cryptocurrency of the Everscale blockchain is called EVER. The initial issue of tokens was 5 billion + 0.5% annually, with all tokens initially distributed on non-financial terms.&#x20;
+The native cryptocurrency of the Everscale blockchain is called EVER(ex. TON Crystal). The initial issue of tokens was 5 billion + 0.5% annually, with all tokens initially distributed on non-financial terms.&#x20;
 
 The Declaration on Decentralization, the main document of the Everscale network, divides all participants into 3 groups: ordinary network users, developers and validators.&#x20;
 
@@ -48,8 +48,8 @@ The rewards are distributed through validator contests. Participants vote throug
 
 This smart contract is intended to support the work of protocol researchers and developers, as well as to support the network by independent groups. Has access to 10% of coins. The consistent work of the entire community to improve the network architecture, TON protocol, interface design is essential for the success of the entire enterprise. A transparent mechanism has been established to involve the entire community in the development of Everscale through the PPP process (suggestions for improvement). Improvements are accepted by voting.
 
-{% content-ref url="../developing/developer-guide.md" %}
-[developer-guide.md](../developing/developer-guide.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../dao-management/contests.md" %}

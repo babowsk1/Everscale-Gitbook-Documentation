@@ -46,8 +46,8 @@ Each block in a shardchain (and in the masterchain) is actually not just a block
 
 Also, Everscale has the following features and advantages that are important for understanding over other blockchains: Infinite Sharding Paradigm - the network automatically increases the number of shards when the load increases and decreases when it decreases. Instant Hypercube Routing - in Everscale, you can directly access your account from any shard, without having to go through the entire chain of other shards. Everscale Virtual Machine (improved analogue of EVM), which supports Turing complete smart contracts and allows writing in Solidity and C ++. Token Formats - The network supports the ability to create up to 232 different tokens. The Everscale architecture is a truly new, better approach to blockchain technology implementation. Get to know her better and contribute to the development of the network and the crypto industry as a whole by developing a Dapp on the fastest blockchain:
 
-{% content-ref url="../developing/developer-guide.md" %}
-[developer-guide.md](../developing/developer-guide.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 _<mark style="color:purple;">P.S. Tens of thousands of Everscale community users are waiting for your product!</mark>_

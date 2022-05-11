@@ -54,8 +54,8 @@ To contribute please visit "Contests" page and find out how it works. Everscale 
 
 #### How to start building in Everscale?
 
-{% content-ref url="../developing/developer-guide.md" %}
-[developer-guide.md](../developing/developer-guide.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 #### I have a project to partner with Everscale. What should I do?

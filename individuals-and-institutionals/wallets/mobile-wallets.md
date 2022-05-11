@@ -22,7 +22,7 @@ The Kilox Wallet mobile application provides the ability to buy and sell, receiv
 
 {% embed url="https://play.google.com/store/apps/details?gl=US&hl=ru&id=com.kilox.app" %}
 
-A distinctive feature of the following three wallets is not only multicurrency, but also the ability to buy TON right inside the application using a bank card or other currencies for further storage on the wallet. Of course, they all have their own technical differences, so we suggest that you familiarize yourself with them in more detail on their official websites and choose the one that suits you.
+A distinctive feature of the following three wallets is not only multicurrency, but also the ability to buy EVER right inside the application using a bank card or other currencies for further storage on the wallet. Of course, they all have their own technical differences, so we suggest that you familiarize yourself with them in more detail on their official websites and choose the one that suits you.
 
 {% embed url="https://freewallet.org" %}
 

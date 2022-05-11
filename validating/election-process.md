@@ -1,6 +1,6 @@
 # Election process
 
-This article briefly describes the process of selecting a validator using an electoral contract. You can find a detailed technical description of how the selection of validators works in the documentation on the TON Dev website.
+This article briefly describes the process of selecting a validator using an electoral contract. You can find a detailed technical description of how the selection of validators works in the documentation on the EverX Dev website.
 
 {% embed url="https://docs.ton.dev/86757ecb2/p/456977-validator-elections" %}
 
@@ -28,7 +28,7 @@ The electoral smart contract operates according to the following rules:
 
 4\) As soon as the total stake calculated according to such a procedure stops growing, that is, the maximum amount of stakes is found, then this state is considered to have passed the elections - then, all past elections, validators will begin to validate for the next election period, and the trimmed parts of the stakes (if any) are immediately returned to wallets from which they were sent.
 
-You can learn more about the technical process of choosing a validator on the TON.Dev website and on the corresponding page of the Free TON Wiki.
+You can learn more about the technical process of choosing a validator on the TON.Dev website and on the corresponding page of the Everscale Wiki.
 
 {% embed url="https://docs.ton.dev/86757ecb2/p/456977-validator-elections" %}
 

@@ -1,6 +1,6 @@
 # Buy/Sell/Trade
 
-This section provides a list of exchanges, DEXs and applications where you can buy, sell, and exchange TON Crystal and other TIP-3 tokens.
+This section provides a list of exchanges, DEXs and applications where you can buy, sell, and exchange EVERs and other TIP-3 tokens.
 
 For a complete list of all ecosystem products, see the section on the website:
 
@@ -21,7 +21,7 @@ Ecosystem&#x20;
 
 ## DEX
 
-**Ton Swap** is a decentralized exchange created by the Broxus team. On it, you can not only buy, sell and exchange your TIP-3 tokens profitably, but also participate in long-term pharming programs without an end date, earning money on investments in liquidity pools.
+**FlatQube(previously TON Swap)** is a decentralized exchange created by the Broxus team. On it, you can not only buy, sell and exchange your TIP-3 tokens profitably, but also participate in long-term pharming programs without an end date, earning money on investments in liquidity pools.
 
 {% embed url="https://tonswap.io" %}
 
@@ -47,13 +47,12 @@ A list of wallets that allow not only storing TIP-3 tokens, but also buying or s
 
 ## P2P
 
-List of platforms that allow you to buy TON Crystals or other TIP-3 directly, including for fiat.
+List of platforms that allow you to buy EVERs or other TIP-3 directly, including for fiat.
 
 | Name     | Link                                          |
 | -------- | --------------------------------------------- |
 | Koshelek | [https://koshelek.ru/](https://koshelek.ru)   |
 | Indacoin | [https://indacoin.com/](https://indacoin.com) |
-| Chatex   | [https://chatex.com/](https://chatex.com)     |
 
 
 
