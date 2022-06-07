@@ -50,7 +50,7 @@ As mentioned earlier, in TVM, almost all data is a cell or a collection of cells
 
 P.S In the zero status (block), there are system accounts and special addresses set manually. They do not pay commissions and use network features that are not used anywhere else, such as Tick and Tock transactions (read more about the latter in the Transactions section).
 
-### Messeges
+### Messages
 
 An important part of the Everscale blockchain is the inter-blockchain messaging system.
 
